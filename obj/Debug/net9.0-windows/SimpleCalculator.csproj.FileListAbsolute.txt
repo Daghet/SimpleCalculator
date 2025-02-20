@@ -1,0 +1,14 @@
+D:\Coding\SimpleCalculator\bin\Debug\net9.0-windows\SimpleCalculator.exe
+D:\Coding\SimpleCalculator\bin\Debug\net9.0-windows\SimpleCalculator.deps.json
+D:\Coding\SimpleCalculator\bin\Debug\net9.0-windows\SimpleCalculator.runtimeconfig.json
+D:\Coding\SimpleCalculator\bin\Debug\net9.0-windows\SimpleCalculator.dll
+D:\Coding\SimpleCalculator\bin\Debug\net9.0-windows\SimpleCalculator.pdb
+D:\Coding\SimpleCalculator\obj\Debug\net9.0-windows\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\SimpleCalculator\obj\Debug\net9.0-windows\SimpleCalculator.AssemblyInfoInputs.cache
+D:\Coding\SimpleCalculator\obj\Debug\net9.0-windows\SimpleCalculator.AssemblyInfo.cs
+D:\Coding\SimpleCalculator\obj\Debug\net9.0-windows\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Coding\SimpleCalculator\obj\Debug\net9.0-windows\SimpleCalculator.dll
+D:\Coding\SimpleCalculator\obj\Debug\net9.0-windows\refint\SimpleCalculator.dll
+D:\Coding\SimpleCalculator\obj\Debug\net9.0-windows\SimpleCalculator.pdb
+D:\Coding\SimpleCalculator\obj\Debug\net9.0-windows\SimpleCalculator.genruntimeconfig.cache
+D:\Coding\SimpleCalculator\obj\Debug\net9.0-windows\ref\SimpleCalculator.dll

@@ -1,0 +1,4 @@
+D:\Coding\SimpleCalculator\obj\Debug\net9.0\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\SimpleCalculator\obj\Debug\net9.0\SimpleCalculator.AssemblyInfoInputs.cache
+D:\Coding\SimpleCalculator\obj\Debug\net9.0\SimpleCalculator.AssemblyInfo.cs
+D:\Coding\SimpleCalculator\obj\Debug\net9.0\SimpleCalculator.csproj.CoreCompileInputs.cache
